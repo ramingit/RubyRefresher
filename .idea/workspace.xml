@@ -17,12 +17,16 @@
     <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_guess_the_collection_Yes__it_is_a_Object__but_which_class__RubyRefresher_master.coverage" NAME="Refresher guess the collection Yes, it is a Object, but which class: RubyRefresher-master Coverage Results" MODIFIED="1463242953923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
     <SUITE FILE_PATH="coverage/RubyRefresher-master@IRB_console__RubyRefresher_master.coverage" NAME="IRB console: RubyRefresher-master Coverage Results" MODIFIED="1463242755177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyRefresher-master" />
     <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_the_following_are_Array_methods__RubyRefresher_master.coverage" NAME="Refresher the following are Array methods: RubyRefresher-master Coverage Results" MODIFIED="1463244067645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
-    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher__RubyRefresher_master.coverage" NAME="Refresher: RubyRefresher-master Coverage Results" MODIFIED="1463242471679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
-    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_the_following_are_Array_methods_removes_an_item_from_the_front_of_an_array__RubyRefresher_master.coverage" NAME="Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master Coverage Results" MODIFIED="1463244377784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
-    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_guess_the_type__RubyRefresher_master.coverage" NAME="Refresher guess the type: RubyRefresher-master Coverage Results" MODIFIED="1463243162068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
+    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_the_following_are_Hash_methods_removes_a_key_value_pair_from_a_hash__RubyRefresher_master.coverage" NAME="Refresher the following are Hash methods removes a key value pair from a hash: RubyRefresher-master Coverage Results" MODIFIED="1463248461087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
     <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_the_following_are_Array_methods_adds_a_thing_to_the_end_of_the_method__RubyRefresher_master.coverage" NAME="Refresher the following are Array methods adds a thing to the end of the method: RubyRefresher-master Coverage Results" MODIFIED="1463243763693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
+    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_the_following_are_Hash_methods_returns_a_value_from_the_hash_for_the_given_key__RubyRefresher_master.coverage" NAME="Refresher the following are Hash methods returns a value from the hash for the given key: RubyRefresher-master Coverage Results" MODIFIED="1463248306475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
     <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_guess_the_type_Yes__it_is_a_Object__but_which__RubyRefresher_master.coverage" NAME="Refresher guess the type Yes, it is a Object, but which: RubyRefresher-master Coverage Results" MODIFIED="1463243377921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
     <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_the_following_are_Array_methods_adds_an_item_to_the_front_of_an_array__RubyRefresher_master.coverage" NAME="Refresher the following are Array methods adds an item to the front of an array: RubyRefresher-master Coverage Results" MODIFIED="1463244271642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
+    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_on_loops__yeah____should_loop_over_the_array_and_return_a_new_array__RubyRefresher_master.coverage" NAME="Refresher on loops, yeah!!! should loop over the array and return a new array: RubyRefresher-master Coverage Results" MODIFIED="1463248578323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
+    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher__RubyRefresher_master.coverage" NAME="Refresher: RubyRefresher-master Coverage Results" MODIFIED="1463242471679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
+    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_on_loops__yeah_____RubyRefresher_master.coverage" NAME="Refresher on loops, yeah!!!: RubyRefresher-master Coverage Results" MODIFIED="1463249001088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
+    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_the_following_are_Array_methods_removes_an_item_from_the_front_of_an_array__RubyRefresher_master.coverage" NAME="Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master Coverage Results" MODIFIED="1463244377784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
+    <SUITE FILE_PATH="coverage/RubyRefresher-master@Refresher_guess_the_type__RubyRefresher_master.coverage" NAME="Refresher guess the type: RubyRefresher-master Coverage Results" MODIFIED="1463243162068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RubyRefresher-master" MODULE_NAME="RubyRefresher-master" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -36,8 +40,8 @@
       <file leaf-file-name="refresher_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RubyRefresher-master/spec/refresher_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="62" column="59" selection-start-line="62" selection-start-column="59" selection-end-line="62" selection-end-column="59" />
+            <state relative-caret-position="125">
+              <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -105,6 +109,16 @@
               <option name="myItemId" value="RubyRefresher-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RubyRefresher-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RubyRefresher-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="RubyRefresher-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -156,123 +170,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="RSpec.Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master">
-    <configuration default="false" name="Refresher guess the type Yes, it is a Object, but which: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher guess the type Yes, it is a Object, but which" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Refresher the following are Array methods adds a thing to the end of the method: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher the following are Array methods adds a thing to the end of the method" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Refresher the following are Array methods: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher the following are Array methods" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Refresher the following are Array methods adds an item to the front of an array: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher the following are Array methods adds an item to the front of an array" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="RSpec.Refresher on loops, yeah!!!: RubyRefresher-master">
     <configuration default="false" name="Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="RubyRefresher-master" />
@@ -292,6 +190,122 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher the following are Array methods removes an item from the front of an array" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Refresher the following are Hash methods returns a value from the hash for the given key: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher the following are Hash methods returns a value from the hash for the given key" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Refresher the following are Hash methods removes a key value pair from a hash: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher the following are Hash methods removes a key value pair from a hash" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Refresher on loops, yeah!!!: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher on loops, yeah!!!" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Refresher on loops, yeah!!! should loop over the array and return a new array: RubyRefresher-master" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/RubyRefresher-master" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/RubyRefresher-master/spec/refresher_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Refresher on loops, yeah!!! should loop over the array and return a new array" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -412,19 +426,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="RSpec.Refresher guess the type Yes, it is a Object, but which: RubyRefresher-master" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods adds a thing to the end of the method: RubyRefresher-master" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods: RubyRefresher-master" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods adds an item to the front of an array: RubyRefresher-master" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master" />
+      <item index="0" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.Refresher the following are Hash methods returns a value from the hash for the given key: RubyRefresher-master" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.Refresher the following are Hash methods removes a key value pair from a hash: RubyRefresher-master" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.Refresher on loops, yeah!!!: RubyRefresher-master" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Refresher on loops, yeah!!! should loop over the array and return a new array: RubyRefresher-master" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods adds an item to the front of an array: RubyRefresher-master" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods: RubyRefresher-master" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods adds a thing to the end of the method: RubyRefresher-master" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.Refresher guess the type Yes, it is a Object, but which: RubyRefresher-master" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Refresher on loops, yeah!!!: RubyRefresher-master" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Refresher on loops, yeah!!! should loop over the array and return a new array: RubyRefresher-master" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Refresher the following are Hash methods removes a key value pair from a hash: RubyRefresher-master" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Refresher the following are Hash methods returns a value from the hash for the given key: RubyRefresher-master" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master" />
       </list>
     </recent_temporary>
   </component>
@@ -438,55 +452,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463242406406</updated>
-      <workItem from="1463242407638" duration="3874000" />
+      <workItem from="1463242407638" duration="6016000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Refresher_guess_the_collection_Yes,_it_is_a_Object,_but_which_class__RubyRefresher-master - 2016.05.14 at 12h 20m 03s.xml">
-      <configuration name="Refresher guess the collection Yes, it is a Object, but which class: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_on_loops,_yeah!!!__RubyRefresher-master - 2016.05.14 at 13h 55m 39s.xml">
+      <configuration name="Refresher on loops, yeah!!!: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_guess_the_collection_Yes,_it_is_a_Object,_but_which_class__RubyRefresher-master - 2016.05.14 at 12h 21m 15s.xml">
-      <configuration name="Refresher guess the collection Yes, it is a Object, but which class: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_on_loops,_yeah!!!__RubyRefresher-master - 2016.05.14 at 13h 56m 47s.xml">
+      <configuration name="Refresher on loops, yeah!!!: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_guess_the_collection_Yes,_it_is_a_Object,_but_which_class__RubyRefresher-master - 2016.05.14 at 12h 22m 34s.xml">
-      <configuration name="Refresher guess the collection Yes, it is a Object, but which class: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_on_loops,_yeah!!!__RubyRefresher-master - 2016.05.14 at 13h 57m 39s.xml">
+      <configuration name="Refresher on loops, yeah!!!: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_guess_the_type_Yes,_it_is_a_Object,_but_which__RubyRefresher-master - 2016.05.14 at 12h 27m 35s.xml">
-      <configuration name="Refresher guess the type Yes, it is a Object, but which: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_on_loops,_yeah!!!__RubyRefresher-master - 2016.05.14 at 14h 00m 07s.xml">
+      <configuration name="Refresher on loops, yeah!!!: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_guess_the_type_Yes,_it_is_a_Object,_but_which__RubyRefresher-master - 2016.05.14 at 12h 29m 38s.xml">
-      <configuration name="Refresher guess the type Yes, it is a Object, but which: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_on_loops,_yeah!!!__RubyRefresher-master - 2016.05.14 at 14h 00m 59s.xml">
+      <configuration name="Refresher on loops, yeah!!!: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_guess_the_type__RubyRefresher-master - 2016.05.14 at 12h 26m 03s.xml">
-      <configuration name="Refresher guess the type: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_on_loops,_yeah!!!__RubyRefresher-master - 2016.05.14 at 14h 03m 22s.xml">
+      <configuration name="Refresher on loops, yeah!!!: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_the_following_are_Array_methods__RubyRefresher-master - 2016.05.14 at 12h 41m 08s.xml">
-      <configuration name="Refresher the following are Array methods: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_on_loops,_yeah!!!_should_loop_over_the_array_and_return_a_new_array__RubyRefresher-master - 2016.05.14 at 13h 56m 19s.xml">
+      <configuration name="Refresher on loops, yeah!!! should loop over the array and return a new array: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_the_following_are_Array_methods_adds_a_thing_to_the_end_of_the_method__RubyRefresher-master - 2016.05.14 at 12h 36m 05s.xml">
-      <configuration name="Refresher the following are Array methods adds a thing to the end of the method: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_the_following_are_Hash_methods_removes_a_key_value_pair_from_a_hash__RubyRefresher-master - 2016.05.14 at 13h 52m 27s.xml">
+      <configuration name="Refresher the following are Hash methods removes a key value pair from a hash: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_the_following_are_Array_methods_adds_an_item_to_the_front_of_an_array__RubyRefresher-master - 2016.05.14 at 12h 44m 32s.xml">
-      <configuration name="Refresher the following are Array methods adds an item to the front of an array: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_the_following_are_Hash_methods_removes_a_key_value_pair_from_a_hash__RubyRefresher-master - 2016.05.14 at 13h 54m 22s.xml">
+      <configuration name="Refresher the following are Hash methods removes a key value pair from a hash: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Refresher_the_following_are_Array_methods_removes_an_item_from_the_front_of_an_array__RubyRefresher-master - 2016.05.14 at 12h 46m 18s.xml">
-      <configuration name="Refresher the following are Array methods removes an item from the front of an array: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Refresher_the_following_are_Hash_methods_returns_a_value_from_the_hash_for_the_given_key__RubyRefresher-master - 2016.05.14 at 13h 51m 47s.xml">
+      <configuration name="Refresher the following are Hash methods returns a value from the hash for the given key: RubyRefresher-master" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3874000" />
+    <option name="totallyTimeSpent" value="6016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29810727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.54416406" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -510,8 +524,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RubyRefresher-master/spec/refresher_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="62" column="59" selection-start-line="62" selection-start-column="59" selection-end-line="62" selection-end-column="59" />
+        <state relative-caret-position="125">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
           <folding />
         </state>
       </provider>
